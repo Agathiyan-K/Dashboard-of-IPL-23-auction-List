@@ -1,0 +1,406 @@
+List Sr. No.,Name,Country,Origin,State Association,DOB,Age,Age Group,Specialism,R/L,Test caps,ODI caps,T20 caps,IPL,C/U/A,Reserve Price Rs Lakh
+1,Mayank Agarwal,India,Indian,KSCA,16-02-1991,32,Senior,BATSMAN,RHB,21,5,0,113,Capped,100
+2,Harry Brook,England,Foreigner,FOREIGNER,22-02-1999,24,Junior,BATSMAN,RHB,1,0,20,0,Capped,150
+3,Ajinkya Rahane,India,Indian,MCA,06-06-1988,34,SuperSenior,BATSMAN,RHB,82,90,20,158,Capped,50
+4,Joe Root,England,Foreigner,FOREIGNER,30-12-1990,32,Senior,BATSMAN,RHB,124,158,32,0,Capped,100
+5,Rilee Rossouw,South Africa,Foreigner,FOREIGNER,09-10-1989,33,Senior,BATSMAN,LHB,0,36,26,5,Capped,200
+6,Kane Williamson,New Zealand,Foreigner,FOREIGNER,08-08-1990,32,Senior,BATSMAN,RHB,88,155,87,76,Capped,200
+7,Sam Curran,England,Foreigner,FOREIGNER,03-06-1998,24,Junior,ALL-ROUNDER,LHB,24,18,35,32,Capped,200
+8,Cameron Green,Australia,Foreigner,FOREIGNER,03-06-1999,23,Junior,ALL-ROUNDER,RHB,14,13,8,0,Capped,200
+9,Shakib Al Hasan,Bangladesh,Foreigner,FOREIGNER,24-03-1987,36,SuperSenior,ALL-ROUNDER,LHB,63,221,109,71,Capped,150
+10,Jason Holder,West Indies,Foreigner,FOREIGNER,05-11-1991,31,Senior,ALL-ROUNDER,RHB,56,131,49,38,Capped,200
+11,Sikandar Raza,Zimbabwe,Foreigner,FOREIGNER,24-04-1986,36,SuperSenior,ALL-ROUNDER,RHB,17,123,66,0,Capped,50
+12,Odean Smith,West Indies,Foreigner,FOREIGNER,01-11-1996,26,Junior,ALL-ROUNDER,RHB,0,5,24,6,Capped,50
+13,Ben Stokes,England,Foreigner,FOREIGNER,04-06-1991,31,Senior,ALL-ROUNDER,LHB,86,105,43,43,Capped,200
+14,Tom Banton,England,Foreigner,FOREIGNER,11-11-1998,24,Junior,WICKETKEEPER,RHB,0,6,14,2,Capped,200
+15,Litton Das,Bangladesh,Foreigner,FOREIGNER,13-10-1994,28,Senior,WICKETKEEPER,RHB,35,57,65,0,Capped,50
+16,Heinrich Klaasen,South Africa,Foreigner,FOREIGNER,30-07-1991,31,Senior,WICKETKEEPER,RHB,1,30,38,7,Capped,100
+17,Kusal Mendis,Sri Lanka,Foreigner,FOREIGNER,02-02-1995,28,Senior,WICKETKEEPER,RHB,54,87,49,0,Capped,50
+18,Nicholas Pooran,West Indies,Foreigner,FOREIGNER,02-10-1995,27,Senior,WICKETKEEPER,LHB,0,52,72,47,Capped,200
+19,Phil Salt,England,Foreigner,FOREIGNER,28-08-1996,26,Junior,WICKETKEEPER,RHB,0,11,13,0,Capped,200
+20,Chris Jordan,England,Foreigner,FOREIGNER,04-10-1988,34,SuperSenior,BOWLER,RHB,8,35,84,28,Capped,200
+21,Adam Milne,New Zealand,Foreigner,FOREIGNER,13-04-1992,30,Senior,BOWLER,RHB,0,41,35,10,Capped,200
+22,Jhye Richardson,Australia,Foreigner,FOREIGNER,20-09-1996,26,Junior,BOWLER,RHB,3,15,18,3,Capped,150
+23,Ishant Sharma,India,Indian,DDCA,02-09-1988,34,SuperSenior,BOWLER,RHB,105,80,14,93,Capped,50
+24,Reece Topley,England,Foreigner,FOREIGNER,21-02-1994,29,Senior,BOWLER,RHB,0,20,22,0,Capped,75
+25,Jaydev Unadkat,India,Indian,SCA,18-10-1991,31,Senior,BOWLER,RHB,1,7,10,91,Capped,50
+26,Akeal Hosein,West Indies,Foreigner,FOREIGNER,25-04-1993,29,Senior,BOWLER,LHB,0,29,32,0,Capped,100
+27,Mayank Markande,India,Indian,PCA,11-11-1997,25,Junior,BOWLER,RHB,0,0,1,20,Capped,50
+28,Mujeeb Rahman,Afghanistan,Foreigner,FOREIGNER,28-03-2001,22,Junior,BOWLER,RHB,1,54,36,19,Capped,100
+29,Adil Rashid,England,Foreigner,FOREIGNER,17-02-1988,35,SuperSenior,BOWLER,RHB,19,119,92,1,Capped,200
+30,Tabraiz Shamsi,South Africa,Foreigner,FOREIGNER,18-02-1990,33,Senior,BOWLER,RHB,2,39,59,5,Capped,100
+31,Adam Zampa,Australia,Foreigner,FOREIGNER,31-12-1992,30,Senior,BOWLER,RHB,0,75,72,14,Capped,150
+32,Shubham Khajuria,India,Indian,JKCA,13-09-1995,27,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+33,Rohan Kunnummal,India,Indian,KCA,10-05-1998,24,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+34,Chethan L.R.,India,Indian,KSCA,25-05-2000,22,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+35,Shaik Rasheed,India,Indian,ACA,24-09-2004,18,Youngester,BATSMAN,RHB,0,0,0,0,Uncapped,20
+36,Anmolpreet Singh,India,Indian,PCA,28-03-1998,25,Junior,BATSMAN,RHB,0,0,0,3,Uncapped,20
+37,Himmat Singh,India,Indian,DDCA,08-11-1996,26,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+38,Corbin Bosch,South Africa,Foreigner,FOREIGNER,10-09-1994,28,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+39,Priyam Garg,India,Indian,UPCA,30-11-2000,22,Junior,ALL-ROUNDER,RHB,0,0,0,21,Uncapped,20
+40,Saurabh Kumar,India,Indian,UPCA,01-05-1993,29,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+41,Vivrant Sharma,India,Indian,JKCA,30-10-1999,23,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+42,Nishant Sindhu,India,Indian,HCA,09-04-2004,18,Youngester,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+43,Sanvir Singh,India,Indian,PCA,12-10-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+44,Shashank Singh,India,Indian,CSCSCA,21-11-1991,31,Senior,ALL-ROUNDER,RHB,0,0,0,10,Uncapped,20
+45,Samarth Vyas,India,Indian,SCA,28-11-1995,27,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+46,K.S. Bharat,India,Indian,ACA,03-10-1993,29,Senior,WICKETKEEPER,RHB,0,0,0,10,Uncapped,20
+47,Mohammed Azharuddeen,India,Indian,KCA,22-03-1994,29,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+48,Dinesh Bana,India,Indian,HCA,15-09-2004,18,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+49,Abhimanyu Easwaran,India,Indian,CAB,06-09-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+50,N. Jagadeesan,India,Indian,TNCA,24-12-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,7,Uncapped,20
+51,Sumit Kumar,India,Indian,HCA,12-12-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+52,Upendra Singh Yadav,India,Indian,RSPB,08-10-1996,26,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+53,Vaibhav Arora,India,Indian,HPCA,14-12-1997,25,Junior,BOWLER,RHB,0,0,0,5,Uncapped,20
+54,K.M. Asif,India,Indian,KCA,24-07-1993,29,Senior,BOWLER,RHB,0,0,0,3,Uncapped,30
+55,Mukesh Kumar,India,Indian,CAB,12-10-1993,29,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+56,Shivam Mavi,India,Indian,UPCA,26-11-1998,24,Junior,BOWLER,RHB,0,0,0,32,Uncapped,40
+57,Lance Morris,Australia,Foreigner,FOREIGNER,28-03-1998,25,Junior,BOWLER,RHB,0,0,0,0,Uncapped,30
+58,Yash Thakur,India,Indian,VCA,28-12-1998,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+59,Mujtaba Yousuf,India,Indian,JKCA,07-06-2002,20,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+60,Murugan Ashwin,India,Indian,TNCA,08-09-1990,32,Senior,BOWLER,RHB,0,0,0,42,Uncapped,20
+61,Chintal Gandhi,India,Indian,BCA,25-08-1994,28,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+62,Shreyas Gopal,India,Indian,KSCA,04-09-1993,29,Senior,BOWLER,RHB,0,0,0,49,Uncapped,20
+63,S Midhun,India,Indian,KCA,07-10-1994,28,Senior,BOWLER,RHB,0,0,0,1,Uncapped,20
+64,Izharulhuq Naveed,Afghanistan,Foreigner,FOREIGNER,10-11-2003,19,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+65,Himanshu Sharma,India,Indian,RCA,06-06-1998,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+66,Travis Head,Australia,Foreigner,FOREIGNER,29-12-1993,29,Senior,BATSMAN,LHB,28,51,17,10,Capped,200
+67,Will Jacks,England,Foreigner,FOREIGNER,21-11-1998,24,Junior,BATSMAN,RHB,0,0,2,0,Capped,150
+68,Dawid Malan,England,Foreigner,FOREIGNER,03-09-1987,35,SuperSenior,BATSMAN,LHB,22,12,55,1,Capped,150
+69,Manish Pandey,India,Indian,KSCA,10-09-1989,33,Senior,BATSMAN,RHB,0,29,39,160,Capped,100
+70,Sherfane Rutherford,West Indies,Foreigner,FOREIGNER,15-08-1998,24,Junior,BATSMAN,LHB,0,0,6,10,Capped,150
+71,Mandeep Singh,India,Indian,PCA,18-12-1991,31,Senior,BATSMAN,RHB,0,0,3,108,Capped,50
+72,Paul Stirling,Ireland,Foreigner,FOREIGNER,03-09-1990,32,Senior,BATSMAN,RHB,3,139,121,0,Capped,50
+73,Rassie Van Der Dussen,South Africa,Foreigner,FOREIGNER,07-02-1989,34,SuperSenior,BATSMAN,RHB,17,38,41,3,Capped,200
+74,Daryl Mitchell,New Zealand,Foreigner,FOREIGNER,20-05-1991,31,Senior,ALL-ROUNDER,RHB,12,11,41,2,Capped,100
+75,Mohammad Nabi,Afghanistan,Foreigner,FOREIGNER,01-01-1985,38,SuperSenior,ALL-ROUNDER,RHB,3,135,104,17,Capped,100
+76,Jimmy Neesham,New Zealand,Foreigner,FOREIGNER,17-09-1990,32,Senior,ALL-ROUNDER,LHB,12,71,60,14,Capped,200
+77,Wayne Parnell,South Africa,Foreigner,FOREIGNER,30-07-1989,33,Senior,ALL-ROUNDER,LHB,6,69,53,26,Capped,75
+78,Daniel Sams,Australia,Foreigner,FOREIGNER,27-10-1992,30,Senior,ALL-ROUNDER,RHB,0,0,10,16,Capped,75
+79,Dasun Shanaka,Sri Lanka,Foreigner,FOREIGNER,09-09-1991,31,Senior,ALL-ROUNDER,RHB,6,42,82,0,Capped,50
+80,Romario Shepherd,West Indies,Foreigner,FOREIGNER,26-11-1994,28,Senior,ALL-ROUNDER,RHB,0,18,23,3,Capped,50
+81,Taskin Ahmed,Bangladesh,Foreigner,FOREIGNER,03-04-1995,28,Senior,BOWLER,LHB,11,51,46,0,Capped,50
+82,Dushmanta Chameera,Sri Lanka,Foreigner,FOREIGNER,11-01-1992,31,Senior,BOWLER,RHB,12,42,52,12,Capped,50
+83,Kyle Jamieson,New Zealand,Foreigner,FOREIGNER,30-12-1994,28,Senior,BOWLER,RHB,16,8,8,9,Capped,100
+84,Riley Meredith,Australia,Foreigner,FOREIGNER,21-06-1996,26,Junior,BOWLER,RHB,0,1,5,13,Capped,150
+85,Blessing Muzarabani,Zimbabwe,Foreigner,FOREIGNER,02-10-1996,26,Junior,BOWLER,RHB,6,33,34,0,Capped,50
+86,Sandeep Sharma,India,Indian,UTCA,18-05-1993,29,Senior,BOWLER,RHB,0,0,2,104,Capped,50
+87,Johnson Charles,West Indies,Foreigner,FOREIGNER,14-01-1989,34,SuperSenior,WICKETKEEPER,RHB,0,48,38,0,Capped,50
+88,Andre Fletcher,West Indies,Foreigner,FOREIGNER,28-11-1987,35,SuperSenior,WICKETKEEPER,RHB,0,25,54,0,Capped,50
+89,Shai Hope,West Indies,Foreigner,FOREIGNER,10-11-1993,29,Senior,WICKETKEEPER,RHB,38,104,19,0,Capped,100
+90,Tom Latham,New Zealand,Foreigner,FOREIGNER,02-04-1992,31,Senior,WICKETKEEPER,LHB,68,116,18,0,Capped,100
+91,Ben Mcdermott,Australia,Foreigner,FOREIGNER,12-12-1994,28,Senior,WICKETKEEPER,RHB,0,5,23,0,Capped,50
+92,Joshua Philippe,Australia,Foreigner,FOREIGNER,01-06-1997,25,Junior,WICKETKEEPER,RHB,0,3,10,5,Capped,75
+93,Lorcan Tucker,Ireland,Foreigner,FOREIGNER,10-09-1996,26,Junior,WICKETKEEPER,RHB,0,29,49,0,Capped,50
+94,Piyush Chawla,India,Indian,GUCA,24-12-1988,34,SuperSenior,BOWLER,LHB,3,25,7,165,Capped,50
+95,Amit Mishra,India,Indian,HCA,24-11-1982,40,SuperSenior,BOWLER,RHB,22,36,10,154,Capped,50
+96,Shahbaz Nadeem,India,Indian,JSCA,12-08-1989,33,Senior,BOWLER,RHB,2,0,0,72,Capped,50
+97,Ish Sodhi,New Zealand,Foreigner,FOREIGNER,31-10-1992,30,Senior,BOWLER,RHB,17,37,88,8,Capped,75
+98,Sachin Baby,India,Indian,KCA,18-12-1988,34,SuperSenior,BATSMAN,LHB,0,0,0,19,Uncapped,20
+99,Harpreet Bhatia,India,Indian,CSCSCA,11-08-1991,31,Senior,BATSMAN,LHB,0,0,0,4,Uncapped,20
+100,Ashwin Hebbar,India,Indian,ACA,15-11-1995,27,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+101,Pukhraj Mann,India,Indian,PCA,07-06-2001,21,Youngester,BATSMAN,LHB,0,0,0,0,Uncapped,20
+102,Akshat Raghuwanshi,India,Indian,MPCA,15-09-2003,19,Youngester,BATSMAN,RHB,0,0,0,0,Uncapped,20
+103,Himanshu Rana,India,Indian,HCA,01-10-1998,24,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+104,Shoun Roger,India,Indian,KCA,16-10-2002,20,Youngester,BATSMAN,RHB,0,0,0,0,Uncapped,20
+105,Virat Singh,India,Indian,JSCA,08-12-1997,25,Junior,BATSMAN,LHB,0,0,0,3,Uncapped,20
+106,Will Smeed,England,Foreigner,FOREIGNER,26-10-2001,21,Youngester,BATSMAN,RHB,0,0,0,0,Uncapped,40
+107,Apoorv Wankhade,India,Indian,VCA,14-03-1992,31,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,30
+108,Manoj Bhandage,India,Indian,KSCA,05-10-1998,24,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+109,Gerald Coetzee,South Africa,Foreigner,FOREIGNER,02-10-2000,22,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+110,Mayank Dagar,India,Indian,HPCA,11-11-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+111,Duan Jansen,South Africa,Foreigner,FOREIGNER,01-05-2000,22,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+112,Evan Jones,South Africa,Foreigner,FOREIGNER,05-08-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+113,Prerak Mankad,India,Indian,SCA,23-04-1994,28,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+114,Abid Mushtaq,India,Indian,JKCA,17-01-1997,26,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+115,Suryansh Shedge,India,Indian,MCA,29-01-2003,20,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+116,Jagadeesha Suchith,India,Indian,KSCA,16-01-1994,29,Senior,ALL-ROUNDER,LHB,0,0,0,22,Uncapped,20
+117,Akash Vashisht,India,Indian,HPCA,17-12-1994,28,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+118,Ricky Bhui,India,Indian,ACA,29-09-1996,26,Junior,WICKETKEEPER,RHB,0,0,0,2,Uncapped,20
+119,Donovan Ferreira,South Africa,Foreigner,FOREIGNER,21-07-1998,24,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+120,Baba Indrajith,India,Indian,TNCA,08-07-1994,28,Senior,WICKETKEEPER,RHB,0,0,0,3,Uncapped,20
+121,Sheldon Jackson,India,Indian,SCA,27-09-1986,36,SuperSenior,WICKETKEEPER,RHB,0,0,0,9,Uncapped,20
+122,Aryan Juyal,India,Indian,UPCA,11-11-2001,21,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+123,Urvil Patel,India,Indian,GUCA,17-10-1998,24,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+124,Kirant Shinde,India,Indian,ACA,19-09-1997,25,Junior,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+125,Luvnith Sisodia,India,Indian,KSCA,15-01-2000,23,Junior,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+126,Vishnu Solanki,India,Indian,BCA,15-10-1992,30,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+127,Vishnu Vinod,India,Indian,KCA,02-12-1993,29,Senior,WICKETKEEPER,RHB,0,0,0,3,Uncapped,20
+128,Aniket Choudhary,India,Indian,RCA,28-01-1990,33,Senior,BOWLER,RHB,0,0,0,5,Uncapped,30
+129,Vidwath Kaverappa,India,Indian,KSCA,25-02-1999,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+130,Rajan Kumar,India,Indian,CAU,08-07-1996,26,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+131,Ravi Kumar,India,Indian,CAB,29-10-2003,19,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+132,Sushant Mishra,India,Indian,JSCA,23-12-2000,22,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+133,Arzan Nagwaswalla,India,Indian,GUCA,17-10-1997,25,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+134,Ishan Porel,India,Indian,CAB,05-09-1998,24,Junior,BOWLER,RHB,0,0,0,1,Uncapped,20
+135,Akash Singh,India,Indian,NCA,26-04-2002,20,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+136,Basil Thampi,India,Indian,KCA,11-09-1993,29,Senior,BOWLER,RHB,0,0,0,25,Uncapped,20
+137,Paul Van Meekeren,Netherland,Foreigner,FOREIGNER,15-01-1993,30,Senior,BOWLER,RHB,0,0,0,0,Associate,20
+138,Vyshak Vijay Kumar,India,Indian,KSCA,31-01-1997,26,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+139,S.Ajith Ram,India,Indian,TNCA,05-09-1998,24,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+140,Satyajeet Bachhav,India,Indian,MACA,28-11-1992,30,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+141,Tejas Baroka,India,Indian,DDCA,01-02-1996,27,Senior,BOWLER,RHB,0,0,0,1,Uncapped,20
+142,Yuvraj Chudasama,India,Indian,SCA,23-11-1995,27,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+143,Peter Hatzoglou,Australia,Foreigner,FOREIGNER,27-11-1998,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+144,Karthik Meiyappan,UAE,Foreigner,FOREIGNER,08-10-2000,22,Junior,BOWLER,RHB,0,0,0,0,Associate,20
+145,Suyash Sharma,India,Indian,DDCA,15-05-2003,19,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+146,Shivam Sharma,India,Indian,UPCA,14-11-1995,27,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+147,Reeza Hendricks,South Africa,Foreigner,FOREIGNER,14-08-1989,33,Senior,BATSMAN,RHB,0,26,48,0,Capped,50
+148,Christiaan Jonker,South Africa,Foreigner,FOREIGNER,24-09-1986,36,SuperSenior,BATSMAN,RHB,0,2,2,0,Capped,50
+149,Brandon King,West Indies,Foreigner,FOREIGNER,16-12-1994,28,Senior,BATSMAN,RHB,0,20,32,0,Capped,50
+150,Chris Lynn,Australia,Foreigner,FOREIGNER,10-04-1990,32,Senior,BATSMAN,RHB,0,4,18,42,Capped,200
+151,Karun Nair,India,Indian,KSCA,06-12-1991,31,Senior,BATSMAN,RHB,6,2,0,76,Capped,50
+152,Pathum Nissaanka,Sri Lanka,Foreigner,FOREIGNER,18-05-1998,24,Junior,BATSMAN,RHB,9,17,36,0,Capped,50
+153,Jason Roy,England,Foreigner,FOREIGNER,21-07-1990,32,Senior,BATSMAN,RHB,5,110,64,13,Capped,150
+154,Gurkeerat Singh,India,Indian,PCA,29-06-1990,32,Senior,BATSMAN,RHB,0,3,0,41,Capped,50
+155,Harry Tector,Ireland,Foreigner,FOREIGNER,06-12-1999,23,Junior,BATSMAN,RHB,0,23,51,0,Capped,50
+156,Najibullah Zadran,Afghanistan,Foreigner,FOREIGNER,18-02-1993,30,Senior,BATSMAN,LHB,0,82,86,0,Capped,50
+157,Sean Abbott,Australia,Foreigner,FOREIGNER,29-02-1992,31,Senior,ALL-ROUNDER,RHB,0,7,9,3,Capped,150
+158,Qais Ahmad,Afghanistan,Foreigner,FOREIGNER,15-08-2000,22,Junior,ALL-ROUNDER,RHB,1,1,2,0,Capped,50
+159,Charith Asalanka,Sri Lanka,Foreigner,FOREIGNER,29-06-1997,25,Junior,ALL-ROUNDER,LHB,3,16,31,0,Capped,50
+160,Michael Bracewell,New Zealand,Foreigner,FOREIGNER,14-02-1991,32,Senior,ALL-ROUNDER,LHB,2,12,13,0,Capped,100
+161,Dominic Drakes,West Indies,Foreigner,FOREIGNER,06-02-1998,25,Junior,ALL-ROUNDER,LHB,0,0,10,0,Capped,50
+162,George Garton,England,Foreigner,FOREIGNER,15-04-1997,25,Junior,ALL-ROUNDER,LHB,0,0,1,5,Capped,50
+163,Chamika Karunaratne,Sri Lanka,Foreigner,FOREIGNER,29-05-1996,26,Junior,ALL-ROUNDER,RHB,1,18,38,0,Capped,50
+164,Jamie Overton,England,Foreigner,FOREIGNER,10-04-1994,28,Senior,ALL-ROUNDER,RHB,1,0,0,0,Capped,200
+165,Sandeep Warrier,India,Indian,TNCA,04-04-1991,32,Senior,ALL-ROUNDER,RHB,0,0,1,5,Capped,50
+166,Ben Dwarshuis,Australia,Foreigner,FOREIGNER,23-06-1994,28,Senior,BOWLER,LHB,0,0,1,0,Capped,50
+167,Richard Gleeson,England,Foreigner,FOREIGNER,02-12-1987,35,SuperSenior,BOWLER,RHB,0,0,6,0,Capped,50
+168,Naveen Ul Haq,Afghanistan,Foreigner,FOREIGNER,23-09-1999,23,Junior,BOWLER,RHB,0,7,22,0,Capped,50
+169,Lahiru Kumara,Sri Lanka,Foreigner,FOREIGNER,13-02-1997,26,Junior,BOWLER,LHB,24,13,25,0,Capped,50
+170,Joshua Little,Ireland,Foreigner,FOREIGNER,01-11-1999,23,Junior,BOWLER,RHB,0,22,53,0,Capped,50
+171,Dilshan Madushanka,Sri Lanka,Foreigner,FOREIGNER,18-09-2000,22,Junior,BOWLER,LHB,0,0,6,0,Capped,50
+172,Mohit Sharma,India,Indian,HCA,18-09-1988,34,SuperSenior,BOWLER,RHB,0,26,8,86,Capped,50
+173,Billy Stanlake,Australia,Foreigner,FOREIGNER,04-11-1994,28,Senior,BOWLER,RHB,0,7,19,6,Capped,50
+174,Andrew Tye,Australia,Foreigner,FOREIGNER,12-12-1986,36,SuperSenior,BOWLER,RHB,0,7,32,30,Capped,100
+175,Luke Wood,England,Foreigner,FOREIGNER,02-08-1995,27,Senior,BOWLER,LHB,0,1,2,0,Capped,100
+176,Priyansh Arya,India,Indian,DDCA,18-09-2001,21,Youngester,BATSMAN,LHB,0,0,0,0,Uncapped,20
+177,Matthew Breetzke,South Africa,Foreigner,FOREIGNER,03-11-1998,24,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+178,Shivam Chauhan,India,Indian,HCA,14-10-1997,25,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+179,Rahul Gahlaut,India,Indian,SSCB,18-09-1995,27,Senior,BATSMAN,LHB,0,0,0,0,Uncapped,20
+180,Sudip Gharami,India,Indian,CAB,21-03-1999,24,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+181,C. Hari Nishaanth,India,Indian,TNCA,16-08-1996,26,Junior,BATSMAN,LHB,0,0,0,0,Uncapped,20
+182,Amandeep Khare,India,Indian,CSCSCA,05-08-1997,25,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+183,Bhanu Pania,India,Indian,BCA,04-09-1996,26,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+184,Ekant Sen,India,Indian,HPCA,21-06-1995,27,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+185,Akash Singh,India,Indian,ARCA,20-12-1995,27,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+186,Himanshu Bisht,India,Indian,CAU,17-11-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+187,Yudhvir Charak,India,Indian,JKCA,13-09-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+188,Mickil Jaiswal,India,Indian,HYCA,10-05-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+189,Shams Mulani,India,Indian,MCA,13-03-1997,26,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+190,G.Aniketh Reddy,India,Indian,HYCA,28-10-2000,22,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+191,Atit Sheth,India,Indian,BCA,03-02-1996,27,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+192,M. Siddharth,India,Indian,TNCA,03-07-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+193,Swapnil Singh,India,Indian,CAU,22-01-1991,32,Senior,ALL-ROUNDER,RHB,0,0,0,5,Uncapped,20
+194,Tanay Thyagarajann,India,Indian,HYCA,15-11-1995,27,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+195,Sumeet Verma,India,Indian,HPCA,18-11-1990,32,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+196,David Wiese,Namibia,Foreigner,FOREIGNER,18-05-1985,37,SuperSenior,ALL-ROUNDER,RHB,0,0,0,15,Associate,100
+197,Sanjay Yadav,India,Indian,TNCA,10-05-1995,27,Senior,ALL-ROUNDER,LHB,0,0,0,1,Uncapped,20
+198,Ajitesh Guruswamy,India,Indian,TNCA,26-09-2002,20,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+199,Yash Kothari,India,Indian,RCA,06-10-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+200,Suresh Kumar,India,Indian,TNCA,28-11-1990,32,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+201,Kumar Kushagra,India,Indian,JSCA,23-10-2004,18,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+202,Anmol Malhotra,India,Indian,PCA,29-11-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+203,Robin Minz,India,Indian,JSCA,13-09-2002,20,Youngester,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+204,Agniv Pan,India,Indian,CAB,01-01-1997,26,Junior,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+205,Priyesh Patel,India,Indian,GUCA,16-10-2001,21,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+206,Mitesh Patel,India,Indian,BCA,15-05-1997,25,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+207,Abishek Porel,India,Indian,CAB,17-10-2002,20,Youngester,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+208,Nitish Kumar Reddy,India,Indian,ACA,26-05-2003,19,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+209,Bharat Sharma,India,Indian,CAP,15-11-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+210,Vivek Singh,India,Indian,RSPB,01-11-1993,29,Senior,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+211,Abhijeet Tomar,India,Indian,RCA,14-03-1995,28,Senior,WICKETKEEPER,RHB,0,0,0,1,Uncapped,20
+212,Basit Bashir,India,Indian,JKCA,05-02-2003,20,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+213,Nandre Burger,South Africa,Foreigner,FOREIGNER,11-08-1995,27,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+214,Rasikh Dar,India,Indian,JKCA,05-04-2000,23,Junior,BOWLER,RHB,0,0,0,3,Uncapped,20
+215,Sakib Hussain,India,Indian,BICA,14-12-2004,18,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+216,Waseem Khanday,India,Indian,JKCA,20-01-2000,23,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+217,Ravi Kiran Majeti,India,Indian,CSCSCA,01-02-1991,32,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+218,Lukman Hussain Meriwala,India,Indian,BCA,11-12-1991,31,Senior,BOWLER,LHB,0,0,0,1,Uncapped,20
+219,Anuj Raj,India,Indian,BICA,01-11-2000,22,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+220,Ankit Singh Rajpoot,India,Indian,UPCA,04-12-1993,29,Senior,BOWLER,RHB,0,0,0,29,Uncapped,20
+221,Avinash Singh,India,Indian,JKCA,05-07-1998,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+222,Prince Yadav,India,Indian,DDCA,12-12-2001,21,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+223,Prithviraj Yarra,India,Indian,ACA,20-02-1998,25,Junior,BOWLER,LHB,0,0,0,2,Uncapped,20
+224,Mushtaq Beg,India,Indian,OCA,15-07-1998,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+225,Rocky Bhasker,India,Indian,TNCA,07-03-1993,30,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+226,Sanjith Devaraj,India,Indian,KSCA,16-09-1997,25,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+227,Raghav Goyal,India,Indian,HCA,20-06-2001,21,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+228,Allah Mohammad,Afghanistan,Foreigner,FOREIGNER,15-07-2007,15,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+229,Lalit Mohan,India,Indian,ACA,19-03-1990,33,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+230,Bhuwan Rohilla,India,Indian,HCA,10-10-2001,21,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+231,Aman Sharma,India,Indian,JKCA,03-04-1997,26,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+232,Manav Suthar,India,Indian,RCA,03-08-2002,20,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+233,Tom Curran,England,Foreigner,FOREIGNER,12-03-1995,28,Senior,ALL-ROUNDER,RHB,2,28,30,13,Capped,75
+234,Moises Henriques,Australia,Foreigner,FOREIGNER,01-02-1987,36,SuperSenior,ALL-ROUNDER,RHB,4,16,24,62,Capped,100
+235,Afif Hossain,Bangladesh,Foreigner,FOREIGNER,22-09-1999,23,Junior,ALL-ROUNDER,LHB,0,19,60,0,Capped,50
+236,Scott Kuggeleijn,New Zealand,Foreigner,FOREIGNER,03-01-1992,31,Senior,ALL-ROUNDER,RHB,0,2,18,2,Capped,50
+237,Sisanda Magala,South Africa,Foreigner,FOREIGNER,07-01-1991,32,Senior,ALL-ROUNDER,RHB,0,3,4,0,Capped,50
+238,Craig Overton,England,Foreigner,FOREIGNER,10-04-1994,28,Senior,ALL-ROUNDER,RHB,8,7,0,0,Capped,200
+239,Darcy Short,Australia,Foreigner,FOREIGNER,09-08-1990,32,Senior,ALL-ROUNDER,LHB,0,8,23,7,Capped,75
+240,Dhananjaya Silva,Sri Lanka,Foreigner,FOREIGNER,06-09-1991,31,Senior,ALL-ROUNDER,RHB,45,60,33,0,Capped,50
+241,Dunith Wellalage,Sri Lanka,Foreigner,FOREIGNER,09-01-2003,20,Youngester,ALL-ROUNDER,LHB,1,5,0,0,Capped,50
+242,Varun Aaron,India,Indian,BCA,29-10-1989,33,Senior,BOWLER,RHB,9,9,0,52,Capped,50
+243,Sheldon Cottrel,West Indies,Foreigner,FOREIGNER,19-08-1989,33,Senior,BOWLER,RHB,2,38,42,6,Capped,50
+244,Nathan Coulter-Nile,Australia,Foreigner,FOREIGNER,11-10-1987,35,SuperSenior,BOWLER,RHB,0,32,28,39,Capped,150
+245,Daryn Dupavillon,South Africa,Foreigner,FOREIGNER,15-07-1994,28,Senior,BOWLER,RHB,0,2,0,0,Capped,50
+246,Matt Henry,New Zealand,Foreigner,FOREIGNER,14-12-1991,31,Senior,BOWLER,RHB,17,64,6,2,Capped,100
+247,Dhawal Kulkarni,India,Indian,MCA,10-12-1988,34,SuperSenior,BOWLER,RHB,0,12,2,92,Capped,50
+248,Tymal Mills,England,Foreigner,FOREIGNER,12-08-1992,30,Senior,BOWLER,RHB,0,0,13,10,Capped,200
+249,David Payne,England,Foreigner,FOREIGNER,15-02-1991,32,Senior,BOWLER,RHB,0,1,0,0,Capped,75
+250,Barinder Sran,India,Indian,PCA,10-12-1992,30,Senior,BOWLER,LHB,0,6,2,24,Capped,50
+251,Glenton Stuurman,South Africa,Foreigner,FOREIGNER,10-08-1992,30,Senior,BOWLER,RHB,1,0,1,0,Capped,50
+252,Anirudh Balachander,India,Indian,TNCA,02-09-1994,28,Senior,BATSMAN,LHB,0,0,0,0,Uncapped,20
+253,Gourav Choudhary,India,Indian,PCA,28-10-1998,24,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+254,Saurav Chuahan,India,Indian,GUCA,27-05-2000,22,Junior,BATSMAN,LHB,0,0,0,0,Uncapped,20
+255,Kumar Deobrat,India,Indian,JSCA,24-10-1992,30,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+256,Chirag Gandhi,India,Indian,GUCA,18-06-1990,32,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+257,Arman Jaffer,India,Indian,MCA,25-10-1998,24,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+258,Madhav Kaushik,India,Indian,UPCA,03-01-1998,25,Junior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+259,Priyank Panchal,India,Indian,GUCA,09-04-1990,33,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+260,Ayush Pandey,India,Indian,CSCSCA,19-09-2003,19,Youngester,BATSMAN,LHB,0,0,0,0,Uncapped,20
+261,Rohan Patil,India,Indian,KSCA,18-08-2001,21,Youngester,BATSMAN,LHB,0,0,0,0,Uncapped,20
+262,Sanjay Ramaswamy,India,Indian,VCA,01-04-1995,28,Senior,BATSMAN,RHB,0,0,0,0,Uncapped,20
+263,Siddharth Yadav,India,Indian,UPCA,13-08-2003,19,Youngester,BATSMAN,LHB,0,0,0,0,Uncapped,20
+264,Rehan Ahmed,England,Foreigner,FOREIGNER,13-08-2004,18,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,40
+265,Prayas Barman,India,Indian,CAB,25-10-2002,20,Youngester,ALL-ROUNDER,RHB,0,0,0,1,Uncapped,20
+266,Rahul Buddhi,India,Indian,HYCA,20-09-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+267,Vaisakh Chandran,India,Indian,KCA,31-05-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+268,Writtick Chatterjee,India,Indian,CAB,28-09-1992,30,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+269,Prashant Chopra,India,Indian,HPCA,07-10-1992,30,Senior,ALL-ROUNDER,RHB,0,0,0,2,Uncapped,20
+270,Harsh Dubey,India,Indian,VCA,23-07-2002,20,Youngester,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+271,Tanush Kotian,India,Indian,MCA,16-10-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+272,Ninad Rathva,India,Indian,BCA,10-03-1999,24,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+273,B. Surya,India,Indian,TNCA,19-09-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+274,Jordan Thompson,England,Foreigner,FOREIGNER,09-10-1996,26,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,40
+275,Shivank Vashisth,India,Indian,DDCA,17-09-1995,27,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+276,Ankush Bains,India,Indian,HPCA,16-12-1995,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+277,Christopher Benjamin,England,Foreigner,FOREIGNER,29-04-1999,23,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+278,Connor Esterhuizen,South Africa,Foreigner,FOREIGNER,31-05-2001,21,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+279,Mohd Arslan Khan,India,Indian,UTCA,15-09-1999,23,Junior,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+280,Mamidi Krishna,India,Indian,ACA,17-07-2001,21,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+281,Fazil Makaya,India,Indian,JKCA,11-12-1996,26,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+282,Akshdeep Nath,India,Indian,UPCA,10-05-1993,29,Senior,WICKETKEEPER,RHB,0,0,0,14,Uncapped,20
+283,Deepak Punia,India,Indian,DDCA,27-09-1993,29,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+284,Kunal Rathore,India,Indian,RCA,09-10-2002,20,Youngester,WICKETKEEPER,LHB,0,0,0,0,Uncapped,20
+285,Ateev Saini,India,Indian,JKCA,07-04-1996,27,Senior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+286,Bipin Saurabh,India,Indian,BICA,20-11-1999,23,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+287,B.R. Sharath,India,Indian,KSCA,28-09-1996,26,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+288,Yashovardhan Singh,India,Indian,UPCA,21-08-2002,20,Youngester,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+289,Lakshay Thareja,India,Indian,DDCA,15-09-1997,25,Junior,WICKETKEEPER,RHB,0,0,0,0,Uncapped,20
+290,Mohit Avasthi,India,Indian,MCA,18-11-1992,30,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+291,Ottneil Baartman,South Africa,Foreigner,FOREIGNER,18-03-1993,30,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+292,Gurnoor Singh Brar,India,Indian,PCA,25-05-2000,22,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+293,Shahrukh Dar,India,Indian,JKCA,12-06-1993,29,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+294,Thomas Helm,England,Foreigner,FOREIGNER,07-05-1994,28,Senior,BOWLER,RHB,0,0,0,0,Uncapped,40
+295,Pankaj Jaswal,India,Indian,HPCA,20-09-1995,27,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+296,Venkatesh Muralidhara,India,Indian,KSCA,12-05-2000,22,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+297,Geet Puri,India,Indian,CAB,06-11-1994,28,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+298,E. Sanketh,India,Indian,HYCA,08-10-1999,23,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+299,Ajay Sarkar,India,Indian,TCA,10-03-1997,26,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+300,Ashok Sharma,India,Indian,RCA,17-06-2002,20,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+301,Kanwar Singh,India,Indian,HPCA,16-06-1991,31,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+302,Fabian Allen,West Indies,Foreigner,FOREIGNER,07-05-1995,27,Senior,ALL-ROUNDER,RHB,0,20,34,5,Capped,50
+303,Carlos Brathwaite,West Indies,Foreigner,FOREIGNER,18-07-1988,34,SuperSenior,ALL-ROUNDER,RHB,3,44,41,16,Capped,75
+304,Roston Chase,West Indies,Foreigner,FOREIGNER,22-03-1992,31,Senior,ALL-ROUNDER,RHB,43,33,6,0,Capped,100
+305,Rahkeem Cornwall,West Indies,Foreigner,FOREIGNER,01-02-1993,30,Senior,ALL-ROUNDER,RHB,9,0,0,0,Capped,100
+306,Karim Janat,Afghanistan,Foreigner,FOREIGNER,11-08-1998,24,Junior,ALL-ROUNDER,RHB,0,1,41,0,Capped,50
+307,Keshav Maharaj,South Africa,Foreigner,FOREIGNER,07-02-1990,33,Senior,ALL-ROUNDER,RHB,45,26,25,0,Capped,50
+308,Pawan Negi,India,Indian,DDCA,06-01-1993,30,Senior,ALL-ROUNDER,LHB,0,0,1,50,Capped,50
+309,Keemo Paul,West Indies,Foreigner,FOREIGNER,21-02-1998,25,Junior,ALL-ROUNDER,RHB,3,23,23,8,Capped,50
+310,Shivam Chaudhary,India,Indian,RSPB,04-08-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+311,Ashwin Das,India,Indian,MPCA,16-12-1995,27,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+312,James Fuller,England,Foreigner,FOREIGNER,24-01-1990,33,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,40
+313,Chirag Jani,India,Indian,SCA,09-11-1989,33,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+314,Akshay Karnewar,India,Indian,VCA,12-10-1992,30,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+315,Bhagmender Lather,India,Indian,UTCA,18-06-1997,25,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+316,Lone Muzaffar,India,Indian,JKCA,05-09-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+317,Pulkit Narang,India,Indian,SSCB,18-06-1994,28,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+318,Rohit Rayudu,India,Indian,HYCA,29-07-1994,28,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+319,Sameer Rizvi,India,Indian,UPCA,06-12-2003,19,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+320,Tunish Sawkar,India,Indian,GCA,25-09-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+321,Sonu Yadav,India,Indian,TNCA,11-11-1999,23,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+322,Auqib Dar,India,Indian,JKCA,04-11-1996,26,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+323,Mukhtar Hussain,India,Indian,ASCA,11-01-1999,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+324,Kulwant Khejroliya,India,Indian,DDCA,13-03-1992,31,Senior,BOWLER,LHB,0,0,0,5,Uncapped,20
+325,Ashwani Kumar,India,Indian,PCA,29-08-2001,21,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+326,Hemant Kumar,India,Indian,RCA,28-10-1995,27,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+327,Nathan McAndrew,Australia,Foreigner,FOREIGNER,14-07-1993,29,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+328,Rajesh Mohanty,India,Indian,OCA,20-05-2000,22,Junior,BOWLER,LHB,0,0,0,0,Uncapped,20
+329,Ravi Sharma,India,Indian,RCA,14-10-1996,26,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+330,Vikash Singh,India,Indian,JSCA,28-06-1994,28,Senior,BOWLER,LHB,0,0,0,0,Uncapped,20
+331,Ruben Trumpelmann,Namibia,Foreigner,FOREIGNER,01-02-1998,25,Junior,BOWLER,RHB,0,0,0,0,Associate,20
+332,Koushik Vasuki,India,Indian,KSCA,19-09-1992,30,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+333,Vasu Vats,India,Indian,UPCA,08-09-2002,20,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+334,Shubham Agrawal,India,Indian,CSCSCA,21-11-1993,29,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+335,Baba Aparajith,India,Indian,TNCA,08-07-1994,28,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+336,Anshul Kamboj,India,Indian,HCA,06-12-2000,22,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+337,Azim Kazi,India,Indian,MACA,14-10-1993,29,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+338,Dev Lakra,India,Indian,DDCA,27-01-2003,20,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+339,Ajay Mandal,India,Indian,CSCSCA,25-02-1996,27,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+340,Abdul P A,India,Indian,KCA,09-10-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+341,Jitender Pal,India,Indian,HCA,20-12-1999,23,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+342,Ritwik Roy Chowdhury,India,Indian,CAB,20-11-1995,27,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+343,Utkarsh Singh,India,Indian,JSCA,07-05-1998,24,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+344,Shubham Singh,India,Indian,CSCSCA,05-01-1997,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+345,Avneesh Sudha,India,Indian,CAU,20-11-2001,21,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+346,Asad Jamil Ahmed,India,Indian,JKCA,31-08-1999,23,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+347,Bandaru Ayyappa,India,Indian,ACA,27-10-1992,30,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+348,Aashish Bhatt,India,Indian,JKCA,14-08-2003,19,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+349,McKenny Clarke,West Indies,Foreigner,FOREIGNER,05-06-2003,19,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+350,Shubham Kapse,India,Indian,VCA,22-07-1994,28,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+351,Gourav Koul,India,Indian,JKCA,16-04-1998,24,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+352,Raunak Kumar,India,Indian,JSCA,19-12-2002,20,Youngester,BOWLER,RHB,0,0,0,0,Uncapped,20
+353,Trilok Nag,India,Indian,TNCA,28-05-2000,22,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+354,Atal Bihari Rai,India,Indian,UPCA,05-08-1999,23,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+355,Ramon Simmonds,West Indies,Foreigner,FOREIGNER,16-10-2001,21,Youngester,BOWLER,LHB,0,0,0,0,Uncapped,20
+356,Rajeev Singh,India,Indian,JKCA,16-06-1995,27,Senior,BOWLER,RHB,0,0,0,0,Uncapped,20
+357,Mohd. Wasim,India,Indian,JKCA,06-05-1999,23,Junior,BOWLER,RHB,0,0,0,0,Uncapped,20
+358,Atharva Ankolekar,India,Indian,MCA,26-09-2000,22,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+359,Khizar Dafedar,India,Indian,MCA,10-10-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+360,Naman Dhir,India,Indian,PCA,31-12-1999,23,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+361,Sahil Dhiwan,India,Indian,RCA,03-07-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+362,Sampark Gupta,India,Indian,JKCA,19-06-2001,21,Youngester,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+363,Jordan Hermann,South Africa,Foreigner,FOREIGNER,04-12-2001,21,Youngester,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+364,Hayden Kerr,Australia,Foreigner,FOREIGNER,10-07-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+365,Salman Khan,India,Indian,RCA,26-12-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+366,Sairaj Patil,India,Indian,MCA,31-10-1996,26,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+367,Divyaansh Saxena,India,Indian,MCA,13-02-2001,22,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+368,Purnank Tyagi,India,Indian,UPCA,20-01-2001,22,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+369,Prince Yadav,India,Indian,UPCA,02-01-1998,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+370,Deepraj Gaonkar,India,Indian,GCA,04-04-1998,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+371,Shubham Garhwal,India,Indian,RCA,14-05-1995,27,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+372,Benny Howell,England,Foreigner,FOREIGNER,05-10-1988,34,SuperSenior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,40
+373,Deepesh Nailwal,India,Indian,CAU,04-11-1997,25,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+374,Arjun Rapria,India,Indian,DDCA,16-01-2000,23,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+375,Shashwat Rawat,India,Indian,BCA,06-04-2001,22,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+376,Sumit Ruikar,India,Indian,CSCSCA,06-06-1990,32,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+377,Shivam Sharma,India,Indian,DDCA,09-09-1993,29,Senior,ALL-ROUNDER,RHB,0,0,0,5,Uncapped,20
+378,Rajandeep Singh,India,Indian,JSCA,05-09-2002,20,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+379,Anunay Singh,India,Indian,BICA,03-01-1993,30,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+380,Digvesh Singh,India,Indian,DDCA,15-12-1999,23,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+381,Pranshu Vijayran,India,Indian,DDCA,18-11-1995,27,Senior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+382,Prerit Dutta,India,Indian,PCA,22-09-1998,24,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+383,Ramakrishna Ghosh,India,Indian,MACA,28-08-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+384,Shubhang Hegde,India,Indian,KSCA,30-03-2001,22,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+385,Shamshuzama Kazi,India,Indian,MACA,10-11-1994,28,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+386,Ayaz Khan,India,Indian,MCA,10-09-2002,20,Youngester,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+387,Amit Pachhara,India,Indian,SSCB,08-09-1995,27,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+388,Akul Pandove,India,Indian,PCA,21-12-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+389,Mohit Rathee,India,Indian,SSCB,13-01-1999,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+390,Garv Sangwan,India,Indian,HCA,06-03-2004,19,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+391,Shubham Sharma,India,Indian,RCA,26-03-1997,26,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+392,Nehal Wadhera,India,Indian,PCA,04-09-2000,22,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+393,Amit Yadav,India,Indian,GCA,10-10-1989,33,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+394,Amit Ali,India,Indian,TCA,28-10-2002,20,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+395,Rishabh Chauhan,India,Indian,MPCA,05-09-1999,23,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+396,Matthew Forde,West Indies,Foreigner,FOREIGNER,29-04-2002,20,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+397,Sammar Gajjar,India,Indian,SCA,14-08-2003,19,Youngester,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+398,Rajneesh Gurbani,India,Indian,VCA,28-01-1993,30,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+399,Divyansh Joshi,India,Indian,UPCA,24-09-2001,21,Youngester,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+400,Dhruv Patel,India,Indian,BCA,09-12-1997,25,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+401,Jack Prestwidge,Australia,Foreigner,FOREIGNER,28-02-1996,27,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+402,Aditya Sarvate,India,Indian,VCA,10-12-1989,33,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+403,Sagar Solanki,India,Indian,MPCA,01-01-2000,23,Junior,ALL-ROUNDER,LHB,0,0,0,0,Uncapped,20
+404,Prenelan Subrayen,South Africa,Foreigner,FOREIGNER,23-09-1993,29,Senior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20
+405,Bhagath Varma,India,Indian,HYCA,21-09-1998,24,Junior,ALL-ROUNDER,RHB,0,0,0,0,Uncapped,20

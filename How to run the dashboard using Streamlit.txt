@@ -1,0 +1,13 @@
+How to run the dashboard using Streamlit?
+
+1. Download the IPYNB file and upload the same in google colab.
+2. In google colab, upload the file named "app.py" in the file section.
+3. Run the file.
+4. You will view a IP address and a URL in the last output.
+5. Open the URL, paste the IP address and click on submit.
+6. The dashboard will be visible now.
+7. The dropbox available in the left side of the dashboard will help you to navigate across multiple sections of the dashboard.
+
+Note: The dashboard will be working as long as the code in the colab keep on running. Once the code is stopped in the ipynb file, the dashboard will stop working too. 
+
+ 
